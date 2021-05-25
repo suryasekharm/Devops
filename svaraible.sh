@@ -1,0 +1,5 @@
+echo "BASH VALUE :" $BASH
+echo "TERM VALUE :" $TERM
+echo "BASH_VERSION:" $BASH_VERSION
+echo "USER:" $USER
+
